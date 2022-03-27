@@ -1,7 +1,7 @@
 
+
 .idea
-*iml
-*xml
+*.iml
+*.xml
 /out
 
-# comment with hashtag
